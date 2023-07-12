@@ -31,4 +31,7 @@ public class AppConfig {
         return new RateDiscountPolicy();
     }
 
+
+    //깃 허브 연습입니다.
+
 }
